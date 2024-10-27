@@ -2,10 +2,10 @@
 
 This repository contains the source code for the statistical inference project by the group:
 
--Pietro Masini
--Giulia Riccardi
--Sofia Sannino
--Alessandro Wiget
+- Pietro Masini
+- Giulia Riccardi
+- Sofia Sannino
+- Alessandro Wiget
 
 ## Description
 
