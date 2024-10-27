@@ -1,43 +1,45 @@
-# Progetto di Statistica
+# University Drop Out- Statistical Inference Project
 
-Questo repository contiene il codice sorgente per il progetto di statistica del gruppo composto da: 
+This repository contains the source code for the statistical inference project by the group:
 
-- Pietro Masini
-- Giulia Riccardi
-- Sofia Sannino
-- Alessandro Wiget
+-Pietro Masini
+-Giulia Riccardi
+-Sofia Sannino
+-Alessandro Wiget
 
-## Descrizione
+## Description
 
-Il progetto si concentra sull'analisi statistica di dati raccolti in un determinato contesto. Il codice sorgente qui presente è stato sviluppato per eseguire diverse analisi e calcoli statistici.
+The purpose of this project is to understand what variables influence university drop out among freshmen.
+We consider variables like ECTS gained in the first semester, GPA in the first semester, income, high school final grade and other numerical and categorical variables.
+The source code provided here is designed to perform various analyses and statistical calculations.
 
-## Struttura del repository
+## Repository Structure
 
-- `Dati/`: questa cartella contiene i dataset utilizzati per l'analisi statistica.
-- `Code/`: questa cartella contiene il codice sorgente del progetto, in R.
-- `Presentazione/`: questa cartella contiene i file necessari per sviluppare la presentazione del progetto.
+- Data/: This folder contains the datasets used for the statistical analysis.
+- Code/: This folder contains the project's source code, in R.
+- Presentation/: This folder contains the files needed to develop the project presentation.
 
-## Requisiti di sistema
+## System Requirements
 
-- R 4.2.2 o versione successiva
-- (Suggerito) RStudio 2024.4.1 + 748 o versione successiva
-- Un compilatore per LaTex o Overleaf (Nel caso si volesse compilare i file .tex presenti). I file latex presenti nella cartella presentazione sono presi dal progetto di boris-il-forte chiamato beamer-polimi-x.
+- R 4.2.2 or later
+- (Suggested) RStudio 2024.4.1 + 748 or later
+- A LaTeX compiler or Overleaf (if you need to compile .tex files). The LaTeX files in the presentation folder are sourced from boris-il-forte’s project beamer-polimi-x.
+  
+## Installation Instructions
 
-## Istruzioni per l'installazione
+1. Clone the repository onto your computer.
+2. Ensure R 4.2.2 or a later version is installed.
+3. Install the necessary R packages, listed at the beginning of the markdown file in the Code/ folder.
+   
+## Usage
 
-1. Clonare il repository sul proprio computer.
-2. Assicurarsi di avere R 4.2.2 o una versione successiva installata.
-3. Installare i pacchetti R necessari, sono elencati all'inizio del file markdown nella cartella `Code/`.
+1. Ensure the required data is in the Data/ folder.
+2. Run the source code in the Code/ folder using RStudio.
+   
+## Contributions
 
-## Utilizzo
+Contributions to improve the code or add new features are welcome. Please open a pull request to discuss proposed changes.
 
-1. Assicurarsi di avere i dati necessari nella cartella `Dati/`.
-2. Eseguire il codice sorgente presente nella cartella `Code/` utilizzando RStudio.
+## Contact
 
-## Contributi
-
-Sono benvenuti i contributi per migliorare il codice o aggiungere nuove funzionalità. Si prega di aprire una pull request per discutere delle modifiche proposte.
-
-## Contatti
-
-Per qualsiasi domanda o suggerimento, contattare gli autori del progetto.
+For any questions or suggestions, please contact the project authors.
