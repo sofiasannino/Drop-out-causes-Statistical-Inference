@@ -1,4 +1,4 @@
-# University Drop Out- Statistical Inference Project
+# University Dropout - Statistical Inference Project
 
 This repository contains the source code for the statistical inference project by the group:
 
